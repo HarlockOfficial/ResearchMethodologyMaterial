@@ -1,0 +1,6 @@
+[submodule "ResearchMethodologyDocument"]
+	path = ResearchMethodologyDocument
+	url = https://github.com/HarlockOfficial/ResearchMethodologyDocument.git
+[submodule "ResearchMethodologyProject"]
+	path = ResearchMethodologyProject
+	url = https://github.com/HarlockOfficial/ResearchMethodologyProject.git
